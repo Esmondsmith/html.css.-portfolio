@@ -1,0 +1,46 @@
+.Web-designer {
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+    color:rgb(12, 240, 240);
+}
+
+.Developer {
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+    color: rgb(12, 240, 240);
+}
+
+.h1 {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.top-background {
+    background-color: rgb(44, 193, 143);
+}
+
+.img-esmond {
+    border-radius: 70%;
+}
+
+.h5 {
+    font-family: serif;
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgb(44, 193, 143);;
+}
+
+.p {
+    color: rgb(30, 29, 29);
+    font-weight: bold;
+}
+
+.skills {
+    font-weight: bold;
+    color:rgb(44, 193, 143); 
+    text-decoration: underline;
+}
+
+.bottom-background {
+    background-color: rgb(44, 193, 143);
+}
